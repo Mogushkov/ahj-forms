@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6y829pwkoake92ai?svg=true)](https://ci.appveyor.com/project/Mogushkov/ahj-forms)
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер
 2. Всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
